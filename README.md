@@ -1,0 +1,2 @@
+# NewsApp
+Practice Project
